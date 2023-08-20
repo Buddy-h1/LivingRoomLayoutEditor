@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\buddy\source\repos\LivingRoomLayoutEditor\Release\LivingRoomLayoutEditor.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\buddy\source\repos\LivingRoomLayoutEditor\LivingRoomLayoutEditor\armchair.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\buddy\source\repos\LivingRoomLayoutEditor\LivingRoomLayoutEditor\door.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\buddy\source\repos\LivingRoomLayoutEditor\LivingRoomLayoutEditor\floor.jpg</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\buddy\source\repos\LivingRoomLayoutEditor\LivingRoomLayoutEditor\plant.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\buddy\source\repos\LivingRoomLayoutEditor\LivingRoomLayoutEditor\sofa.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\buddy\source\repos\LivingRoomLayoutEditor\LivingRoomLayoutEditor\table.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\buddy\source\repos\LivingRoomLayoutEditor\LivingRoomLayoutEditor\TV.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\buddy\source\repos\LivingRoomLayoutEditor\LivingRoomLayoutEditor\window.png</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

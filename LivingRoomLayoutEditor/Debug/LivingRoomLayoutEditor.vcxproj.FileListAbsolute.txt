@@ -1,0 +1,2 @@
+C:\Users\buddy\source\repos\LivingRoomLayoutEditor\LivingRoomLayoutEditor\Debug\LivingRoomLayoutEditor.MainForm.resources
+C:\Users\buddy\source\repos\LivingRoomLayoutEditor\LivingRoomLayoutEditor\Debug\LivingRoomLayoutEditor.vcxproj.GenerateResource.cache

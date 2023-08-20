@@ -1,0 +1,14 @@
+﻿  Armchair.cpp
+  Door.cpp
+  DrawingField.cpp
+  GraphicElement.cpp
+  MainForm.cpp
+  Plant.cpp
+  Sofa.cpp
+  Table.cpp
+  TV.cpp
+  Window.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  Armchair.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  LivingRoomLayoutEditor.vcxproj -> C:\Users\buddy\source\repos\LivingRoomLayoutEditor\Release\LivingRoomLayoutEditor.exe
